@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Loading page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaGolovach/Natours.git"
+  },
+  "author": "Christina Golovach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristinaGolovach/Natours/issues"
+  },
+  "homepage": "https://github.com/ChristinaGolovach/Natours#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

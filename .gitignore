@@ -1,2 +1,5 @@
 # Visual Studio Code workspace config
 .vscode/
+
+# dependencies
+/node_modules
