@@ -4,7 +4,7 @@
   "description": "Loading page for natours",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss css/style.css"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,9 @@
     "url": "https://github.com/ChristinaGolovach/Natours/issues"
   },
   "homepage": "https://github.com/ChristinaGolovach/Natours#readme",
-  "dependencies": {},
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
   "devDependencies": {
     "node-sass": "^5.0.0"
   }
